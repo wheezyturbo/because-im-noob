@@ -178,3 +178,26 @@
     padding:0 100px;
     opacity: 0.7;
 }
+
+/* content__third */
+
+.content__third{
+    padding:100px;
+}
+
+.content__third__box{
+    background-color: #3882f6;
+    color:white;
+    padding:40px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign__up{
+    padding:0px 40px;
+    background-color: #3882f6;
+    color:white;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-weight: bold;
+}
