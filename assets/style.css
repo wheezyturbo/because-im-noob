@@ -120,6 +120,9 @@
 }
 .content__first__title{
     margin:30px 0;
+    font-size: 32px;
+    font-weight: 700;
+    color:#1f2937;
 }
 .cards{
     /* margin-left: auto; */
@@ -144,4 +147,34 @@
     text-align: center;
     opacity: 0.7;
     color: #1f2937;
+}
+
+/* content__second */
+
+.content__second{
+    padding:100px 100px;
+    display:flex;
+    flex-direction: column;
+    background-color:#e5e7eb;
+}
+
+.content__second__quote{
+    /*  
+    quote section background color
+    #e5e7eb
+*/
+/* 
+    quote text
+	36px light italic #1f2937
+*/
+
+    font-size:36px;
+    font-style: italic;
+    color:#1f2937;
+    opacity: 0.7;
+}
+.content__second>h3{
+    align-self: flex-end;
+    padding:0 100px;
+    opacity: 0.7;
 }
