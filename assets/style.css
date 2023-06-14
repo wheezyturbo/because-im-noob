@@ -1,0 +1,37 @@
+/* hero footer bg: #1f2937 */
+/*  hero main text: 
+    48px extra-bold #f9faf8
+*/
+/* 
+    hero secondary, header link
+	18px #e5e7eb
+*/
+
+/* 
+   header logo text 
+   24px #f9faf8
+*/
+/* 
+   button color, call to action background color
+   #3882f6
+*/
+
+/* 
+   information header text
+   36px extra-bold #1f2937
+*/
+
+/*  
+    quote section background color
+    #e5e7eb
+*/
+/* 
+    quote text
+	36px light italic #1f2937
+*/
+
+
+*{
+	margin:0;
+	padding:0;
+}
