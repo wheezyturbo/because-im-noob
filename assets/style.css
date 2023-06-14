@@ -30,8 +30,40 @@
 	36px light italic #1f2937
 */
 
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 *{
 	margin:0;
 	padding:0;
+}
+
+.container{
+    font-family: Roboto;
+}
+.navbar{
+    background-color:#1f2937;
+    display: flex;
+    gap:24px;
+    padding:10px 100px;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar__logo{
+    color:#f9faf8;
+    font-weight: 700;
+    font-size:24px;
+}
+.secondary,.nav__item{
+    font-size:18px; 
+    color:#e5e7eb;
+}
+
+.nav__list{
+    display:flex;
+    list-style:none;
+    gap:24px;
+}
+.nav__list > li > a{
+    text-decoration:none;
+    color:#e5e7eb;
+    font-size: 18px;
 }
