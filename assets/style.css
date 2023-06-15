@@ -109,7 +109,7 @@ html{
     height:200px;
     width:400px;
     padding-right:50px;
-    background:url('../assets/image2.png');
+    background:url('https://wheezyturbo.github.io/because-im-noob/assets/image2.png');
     /* object-fit: cover; */
     background-repeat: no-repeat;
     background-size: 400px 400px;
@@ -161,7 +161,7 @@ html{
     width:100px;
     border: 3px solid #3882f6;
     border-radius: 15px;
-    background:url('../assets/image.jpg');
+    background:url('https://wheezyturbo.github.io/because-im-noob/assets/image.jpg');
     background-size: 100px;
 }
 .card:hover{
@@ -182,7 +182,7 @@ html{
     display:flex;
     flex-direction: column;
     background-color:#e5e7eb;
-    background: url('../assets/image3.jpg');
+    background: url('https://wheezyturbo.github.io/because-im-noob/assets/image3.jpg');
     background-size:cover;
 }
 
